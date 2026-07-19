@@ -15,7 +15,4 @@ I’m Mohammad Tausif Ahmad, a Data Science student and aspiring Data Scientist 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shaikh748&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=shaikh748&icon=5&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
